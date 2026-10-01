@@ -22,32 +22,27 @@ jobs:
           template: classic
           filename: github-metrics.svg
           
-          # Exact 2-Column layout matching your screenshot
+          # Clean 2-Column layout matching your screenshot
           config_display: columns
           config_timezone: Asia/Kolkata
-          config_order: base.header, pagespeed, isocalendar, habits, languages, topics
+          config_order: base.header, isocalendar, habits, languages, achievements, topics
           
           # Base profile metadata & overview
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           
-          # 1. 🌐 Google PageSpeed Insights (Live audit of your portfolio)
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://sajalsrivastava.me
-          plugin_pagespeed_detailed: yes
-          
-          # 2. 📅 3D Isometric Contributions Calendar & Streak
+          # 1. 📅 3D Isometric Contributions Calendar & Streak (Pristine Top-Right Placement)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # 3. 📊 Coding Habits & Activity Charts (Time of day + Days of week)
+          # 2. 📊 Coding Habits & Activity Charts (Time of day + Days of week)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           
-          # 4. 💻 Most Used Languages
+          # 3. 💻 Most Used Languages
           plugin_languages: yes
           plugin_languages_analysis_head: yes
           plugin_languages_categories: markup, programming
@@ -56,6 +51,10 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage
+          
+          # 4. 🏆 Official GitHub Achievements Badges
+          plugin_achievements: yes
+          plugin_achievements_display: compact
           
           # 5. 🛠️ Mastered Technologies & Topics (Icon Grid)
           plugin_topics: yes
