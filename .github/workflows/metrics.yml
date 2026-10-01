@@ -1,0 +1,62 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 🚀 Generate 100% Match GitHub Metrics Infographic
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: sajalsrivastava
+          template: classic
+          filename: github-metrics.svg
+          
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Asia/Kolkata
+          config_order: base.header, isocalendar, pagespeed, habits, languages, topics, projects
+          
+          # 1. PageSpeed Insights
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://sajalsrivastava.me
+          plugin_pagespeed_detailed: yes
+          
+          # 2. 3D Isometric Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # 3. Coding Habits
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          
+          # 4. Languages
+          plugin_languages: yes
+          plugin_languages_analysis_head: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          
+          # 5. Mastered Topics
+          plugin_topics: yes
+          plugin_topics_limit: 24
+          plugin_topics_mode: icons
+          
+          # 6. Projects
+          plugin_projects: yes
+          plugin_projects_limit: 4
