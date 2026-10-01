@@ -1,20 +1,174 @@
-<h1 align="center">Hi 👋, I'm Sajal Srivastava</h1>
-<h3 align="center">A passionate frontend developer And CyberSecurity</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whitegoal8858&label=Profile%20views&color=0e75b6&style=flat" alt="whitegoal8858" /> </p>
+  <!-- Dynamic Typing SVG Banner -->
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Enterprise+ERP+Architect+%26+Full-Stack+Engineer;Scalable+Web+Applications+%26+Cross-Platform+Mobile+Apps;Designing+Mission-Critical+Business+Systems+%26+Automation" alt="Typing SVG" />
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whitegoal8858" alt="whitegoal8858" /></a> </p>
+  <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sajal srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajal srivastava" height="30" width="40" /></a>
-</p>
+  <h1>⚡ Hi, I'm <span style="color: #38bdf8;">[Your Name]</span></h1>
+  <p><strong>Senior Web, Mobile & Enterprise ERP Software Developer</strong></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <p align="center">
+    <i>Architecting resilient enterprise software, end-to-end ERP solutions, high-throughput web platforms, and native-grade mobile experiences.</i>
+  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitegoal8858&show_icons=true&locale=en&layout=compact" alt="whitegoal8858" /></p>
+  <!-- Quick Badges -->
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+    <img src="https://img.shields.io/badge/Focus-Enterprise_ERP_%26_Distributed_Systems-6366F1?style=for-the-badge" alt="Focus" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitegoal8858&show_icons=true&locale=en" alt="whitegoal8858" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whitegoal8858&" alt="whitegoal8858" /></p>
+---
+
+### 💼 Executive Summary & Impact
+
+- 🏢 **Enterprise ERP Engineering**: Specializing in modular, multi-tenant ERP ecosystems (Financial Accounting, Inventory & Supply Chain, HRMS, CRM, and POS).
+- 🚀 **High-Performance Web Platforms**: Building scalable frontend and backend architectures handling concurrent transactions, complex data grids, and live reporting.
+- 📱 **Cross-Platform Mobile Apps**: Developing offline-first, synchronized business mobile applications (iOS & Android) with biometric security and hardware integrations (Barcode/RFID/POS printers).
+- 🔒 **Security & Compliance First**: Strict implementation of Role-Based Access Control (RBAC), immutable audit logs, ACID transactional consistency, and data encryption.
+
+---
+
+### 🛠️ Technical Competencies & Architecture Stack
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>Core Enterprise & Backend</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,fastapi,dotnet,go,java" /><br />
+      <em>RESTful APIs, GraphQL, gRPC, Microservices, Event-Driven Architecture, Worker Queues</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Web Frontend Systems</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,tailwind,redux,html,css" /><br />
+      <em>SSR/SSG, Dynamic Dashboards, Enterprise Data Tables, State Machines, Real-Time WebSockets</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Mobile Application Dev</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=flutter,dart,react" /><br />
+      <em>Cross-Platform (iOS/Android), SQLite/WatermelonDB, Offline-First Sync, Hardware Scanner APIs</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Databases & Caching</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" /><br />
+      <em>Complex Query Optimization, Indexing Strategies, Partitioning, ACID Compliance, In-Memory Caching</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>DevOps, Cloud & Infra</strong></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,githubactions,nginx,linux" /><br />
+      <em>CI/CD Automation, Container Orchestration, Multi-Tenant Cloud Architecture, Load Balancing</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Featured Signature Projects
+
+#### 1. 🏢 Cloud-Native Enterprise ERP Suite (`OmniERP`)
+> A unified modular ERP designed for manufacturing and distribution enterprises.
+- **Key Modules**: Real-Time Inventory Control, Multi-Currency General Ledger, Procurement & Order Pipeline, HR & Payroll engine.
+- **Tech Stack**: `NestJS` • `PostgreSQL` • `Next.js` • `Redis` • `Docker` • `Kafka`
+- **Highlights**:
+  - Engineered partitioned database schema supporting **multi-tenant isolation**.
+  - Built custom double-entry bookkeeping engine with zero reconciliatory discrepancies.
+  - Automated PDF/Excel invoice generation pipeline processing **10,000+ docs/hr**.
+- 🔗 [Repository / Demo](https://github.com/your-username/omni-erp-suite)
+
+#### 2. 📱 Warehouse & POS Field Companion App (`SyncField Mobile`)
+> An offline-first mobile application for warehouse logistics and field sales representatives.
+- **Tech Stack**: `Flutter` / `Dart` • `SQLite` • `Node.js` • `MQTT / WebSockets`
+- **Highlights**:
+  - Implemented conflict-free delta sync protocol for seamless offline operation in low-connectivity areas.
+  - Camera & Bluetooth laser barcode scanner integration for real-time asset tracking.
+  - Biometric authentication & PIN fallback with local tamper-resistant encrypted storage.
+- 🔗 [Repository / Demo](https://github.com/your-username/syncfield-mobile-pos)
+
+#### 3. ⚡ High-Throughput Business Automation & Reporting Engine
+> Event-driven microservice system that automates supply chain triggers and financial forecasting.
+- **Tech Stack**: `FastAPI` • `Python` • `Celery` • `Redis` • `TimescaleDB` • `React`
+- **Highlights**:
+  - Automated re-order triggers based on predictive inventory depletion rate.
+  - Real-time WebSockets notification server delivering sub-second order and delivery alerts.
+- 🔗 [Repository / Demo](https://github.com/your-username/erp-automation-engine)
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🧩 System Architecture & Engineering Philosophy
+
+```
+  ┌───────────────────┐       ┌──────────────────────┐
+  │   Web Dashboard   │       │   Mobile POS / App   │
+  │   (Next.js / Vue) │       │   (Flutter / ReactN) │
+  └─────────┬─────────┘       └──────────┬───────────┘
+            │                            │
+            ▼                            ▼
+  ┌──────────────────────────────────────────────────┐
+  │      API Gateway & Auth / RBAC Layer             │
+  └─────────────────────────┬────────────────────────┘
+                            │
+        ┌───────────────────┼───────────────────┐
+        ▼                   ▼                   ▼
+┌───────────────┐   ┌───────────────┐   ┌───────────────┐
+│ Inventory / SC│   │ Accounting/GL │   │ CRM & Orders  │
+│  Microservice │   │  Microservice │   │  Microservice │
+└───────┬───────┘   └───────┬───────┘   └───────┬───────┘
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            ▼
+              ┌───────────────────────────┐
+              │  PostgreSQL (Multi-tenant)│
+              │  + Redis Distributed Cache│
+              └───────────────────────────┘
+```
+
+- **Robust Multi-Tenancy**: Schema-per-tenant or row-level security isolation tailored for client compliance.
+- **Fail-Safe Processing**: Idempotent API endpoints preventing duplicate transactions across networks.
+- **Clean Architecture & Domain-Driven Design (DDD)**: Codebases built for 5-10+ year maintainability.
+
+---
+
+### 🤝 Let's Connect & Build
+
+- 💬 **Ask me about**: ERP architecture, multi-tenant databases, offline-first mobile sync, microservices vs modular monoliths.
+- 🎯 **Current Focus**: Next-generation event-driven enterprise platforms and scalable business SaaS.
+- 📬 **Reach Out**: Open for consulting, architectural advisory, and high-impact enterprise engineering roles.
+
+<div align="center">
+  <p><i>Crafted with precision for mission-critical software engineering.</i></p>
+</div>
