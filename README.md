@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Dynamic Typing SVG Banner -->
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/sajalsrivastava">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Enterprise+ERP+Architect+%26+Full-Stack+Engineer;Scalable+Web+Applications+%26+Cross-Platform+Mobile+Apps;Designing+Mission-Critical+Business+Systems+%26+Automation" alt="Typing SVG" />
   </a>
 
   <br />
 
-  <h1>⚡ Hi, I'm <span style="color: #38bdf8;">[Your Name]</span></h1>
+  <h1>⚡ Hi, I'm <span style="color: #38bdf8;">Sajal Srivastava</span></h1>
   <p><strong>Senior Web, Mobile & Enterprise ERP Software Developer</strong></p>
 
   <p align="center">
@@ -16,9 +16,9 @@
 
   <!-- Quick Badges -->
   <p>
-    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Live_Site-10B981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://sajalsrivastava.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-sajalsrivastava.me-10B981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:Sajalsrivastava16@gmail.com"><img src="https://img.shields.io/badge/Email-Sajalsrivastava16%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/sajalsrivastava" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Focus-Enterprise_ERP_%26_Distributed_Systems-6366F1?style=for-the-badge" alt="Focus" />
   </p>
 
@@ -87,7 +87,7 @@
   - Engineered partitioned database schema supporting **multi-tenant isolation**.
   - Built custom double-entry bookkeeping engine with zero reconciliatory discrepancies.
   - Automated PDF/Excel invoice generation pipeline processing **10,000+ docs/hr**.
-- 🔗 [Repository / Demo](https://github.com/your-username/omni-erp-suite)
+- 🔗 [Repository / Demo](https://github.com/sajalsrivastava/omni-erp-suite)
 
 #### 2. 📱 Warehouse & POS Field Companion App (`SyncField Mobile`)
 > An offline-first mobile application for warehouse logistics and field sales representatives.
@@ -96,7 +96,7 @@
   - Implemented conflict-free delta sync protocol for seamless offline operation in low-connectivity areas.
   - Camera & Bluetooth laser barcode scanner integration for real-time asset tracking.
   - Biometric authentication & PIN fallback with local tamper-resistant encrypted storage.
-- 🔗 [Repository / Demo](https://github.com/your-username/syncfield-mobile-pos)
+- 🔗 [Repository / Demo](https://github.com/sajalsrivastava/syncfield-mobile-pos)
 
 #### 3. ⚡ High-Throughput Business Automation & Reporting Engine
 > Event-driven microservice system that automates supply chain triggers and financial forecasting.
@@ -104,7 +104,7 @@
 - **Highlights**:
   - Automated re-order triggers based on predictive inventory depletion rate.
   - Real-time WebSockets notification server delivering sub-second order and delivery alerts.
-- 🔗 [Repository / Demo](https://github.com/your-username/erp-automation-engine)
+- 🔗 [Repository / Demo](https://github.com/sajalsrivastava/erp-automation-engine)
 
 ---
 
@@ -115,15 +115,15 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajalsrivastava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsrivastava&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajalsrivastava&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -165,9 +165,11 @@
 
 ### 🤝 Let's Connect & Build
 
+- 🌐 **Portfolio**: [sajalsrivastava.me](https://sajalsrivastava.me)
+- ✉️ **Email**: [Sajalsrivastava16@gmail.com](mailto:Sajalsrivastava16@gmail.com)
+- 💼 **LinkedIn**: [Sajal Srivastava](https://linkedin.com/in/sajalsrivastava)
 - 💬 **Ask me about**: ERP architecture, multi-tenant databases, offline-first mobile sync, microservices vs modular monoliths.
 - 🎯 **Current Focus**: Next-generation event-driven enterprise platforms and scalable business SaaS.
-- 📬 **Reach Out**: Open for consulting, architectural advisory, and high-impact enterprise engineering roles.
 
 <div align="center">
   <p><i>Crafted with precision for mission-critical software engineering.</i></p>
