@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics & Auto-Sync
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -9,11 +9,33 @@ on:
       - master
 
 jobs:
-  github-metrics:
+  sync-and-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 🔄 Auto-Sync All Repositories into README
+        run: |
+          python .github/scripts/update_readme.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 📝 Commit Auto-Updated README (If changed)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: auto-sync latest repositories into README [skip ci]"
+          git push || true
+
       - name: 🚀 Generate 100% Match 2-Column Dashboard Infographic
         uses: lowlighter/metrics@latest
         with:
@@ -22,32 +44,26 @@ jobs:
           template: classic
           filename: github-metrics.svg
           
-          # Exact 2-Column layout matching your screenshot
           config_display: columns
           config_timezone: Asia/Kolkata
           config_order: base.header, pagespeed, isocalendar, habits, languages, topics
           
-          # Base profile metadata & overview
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           
-          # 1. 🌐 Google PageSpeed Insights (Live audit of your portfolio)
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://sajalsrivastava.me
           plugin_pagespeed_detailed: yes
           
-          # 2. 📅 3D Isometric Contributions Calendar & Streak
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # 3. 📊 Coding Habits & Activity Charts (Time of day + Days of week)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           
-          # 4. 💻 Most Used Languages (Fixed: uses most-used to prevent committer bug)
           plugin_languages: yes
           plugin_languages_analysis_head: yes
           plugin_languages_categories: markup, programming
@@ -57,7 +73,6 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage
           
-          # 5. 🛠️ Mastered Technologies & Topics (Icon Grid)
           plugin_topics: yes
           plugin_topics_limit: 24
           plugin_topics_mode: icons
