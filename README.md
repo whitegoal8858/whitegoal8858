@@ -71,15 +71,15 @@
 
 <!-- AUTOMATED-PROJECTS-LIST:START -->
 
-#### 🚀 [E-Commerce-Webiste](https://github.com/whitegoal8858/E-Commerce-Webiste)
-> Modern software application & engineering codebase.
-- **Tech / Meta**: `Full-Stack` • ⭐ 3
-- 🔗 **View Repository**: [https://github.com/whitegoal8858/E-Commerce-Webiste](https://github.com/whitegoal8858/E-Commerce-Webiste)
-
 #### 🚀 [Technex-Project-Sajal-](https://github.com/whitegoal8858/Technex-Project-Sajal-)
 > Modern software application & engineering codebase.
-- **Tech / Meta**: `Full-Stack` • ⭐ 3
+- **Tech / Meta**: `Full-Stack` • ⭐ 4
 - 🔗 **View Repository**: [https://github.com/whitegoal8858/Technex-Project-Sajal-](https://github.com/whitegoal8858/Technex-Project-Sajal-)
+
+#### 🚀 [E-Commerce-Webiste](https://github.com/whitegoal8858/E-Commerce-Webiste)
+> Modern software application & engineering codebase.
+- **Tech / Meta**: `Full-Stack` • ⭐ 4
+- 🔗 **View Repository**: [https://github.com/whitegoal8858/E-Commerce-Webiste](https://github.com/whitegoal8858/E-Commerce-Webiste)
 
 #### 🚀 [IRCTC-](https://github.com/whitegoal8858/IRCTC-)
 > Modern software application & engineering codebase.
