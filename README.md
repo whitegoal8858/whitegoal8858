@@ -71,6 +71,11 @@
 
 <!-- AUTOMATED-PROJECTS-LIST:START -->
 
+#### 🚀 [Decision-Support-System-](https://github.com/whitegoal8858/Decision-Support-System-)
+> Modern software application & engineering codebase.
+- **Tech / Meta**: `TypeScript`
+- 🔗 **View Repository**: [https://github.com/whitegoal8858/Decision-Support-System-](https://github.com/whitegoal8858/Decision-Support-System-)
+
 #### 🚀 [Technex-Project-Sajal-](https://github.com/whitegoal8858/Technex-Project-Sajal-)
 > Modern software application & engineering codebase.
 - **Tech / Meta**: `Full-Stack` • ⭐ 4
@@ -105,11 +110,6 @@
 > I created a user-friendly front page for a currency exchange website with live rates, a converter, and intuitive navigation. The responsive design ensures seamless functionality across devices, balancing aesthetics and usability. This project showcases my skills in crafting efficient and visually appealing web pages tailored to specific needs.
 - **Tech / Meta**: `Full-Stack` • ⭐ 3
 - 🔗 **View Repository**: [https://github.com/whitegoal8858/Currency-Webpages](https://github.com/whitegoal8858/Currency-Webpages)
-
-#### 🚀 [Technex-sajal-](https://github.com/whitegoal8858/Technex-sajal-)
-> Modern software application & engineering codebase.
-- **Tech / Meta**: `HTML` • ⭐ 3
-- 🔗 **View Repository**: [https://github.com/whitegoal8858/Technex-sajal-](https://github.com/whitegoal8858/Technex-sajal-)
 
 <!-- AUTOMATED-PROJECTS-LIST:END -->
 
