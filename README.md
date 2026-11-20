@@ -73,7 +73,7 @@
 
 #### 🚀 [Decision-Support-System-](https://github.com/whitegoal8858/Decision-Support-System-)
 > Modern software application & engineering codebase.
-- **Tech / Meta**: `TypeScript`
+- **Tech / Meta**: `TypeScript` • ⭐ 1
 - 🔗 **View Repository**: [https://github.com/whitegoal8858/Decision-Support-System-](https://github.com/whitegoal8858/Decision-Support-System-)
 
 #### 🚀 [Technex-Project-Sajal-](https://github.com/whitegoal8858/Technex-Project-Sajal-)
